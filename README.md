@@ -29,3 +29,5 @@ FLAGS:
 ```
 
 Be sure to specify a font when starting, for example: `cargo run C:\Windows\Fonts\times.ttf` on Windows.
+
+To navigate, use the arrow keys.
